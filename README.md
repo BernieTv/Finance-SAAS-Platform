@@ -1,6 +1,6 @@
 <img src="https://res.cloudinary.com/bekzod-tiny-house/image/upload/v1755250616/Screenshot_from_2025-08-15_14-10-56_j5lo5f.png" alt="Project Banner" />
 
-# 🌟 Finance SaaS Platform 💹
+# 🌟 Financial SaaS Platform 💹
 
 > 💸 A professional, AI-powered financial management system built with the MERN stack and TypeScript, designed to deliver robust analytics, automation, and a premium user experience. 🚀✨📊
 
@@ -8,7 +8,7 @@
 
 ## 📖 Project Description 📝
 
-Finance SaaS Platform is a modern, cloud-based personal and business finance management application. It empowers users to track 💳 transactions, analyze 📈 spending patterns, automate 🔁 recurring payments, and receive 🤖 AI-assisted insights. The platform combines advanced backend data processing with a sleek, responsive frontend, delivering a seamless experience for individuals and organizations alike. With features like AI-powered receipt scanning 🧾, monthly automated reports 📅, and rich data visualizations 📊, it helps users make informed financial decisions with minimal effort.
+Financial SaaS Platform is a modern, cloud-based personal and business finance management application. It empowers users to track 💳 transactions, analyze 📈 spending patterns, automate 🔁 recurring payments, and receive 🤖 AI-assisted insights. The platform combines advanced backend data processing with a sleek, responsive frontend, delivering a seamless experience for individuals and organizations alike. With features like AI-powered receipt scanning 🧾, monthly automated reports 📅, and rich data visualizations 📊, it helps users make informed financial decisions with minimal effort.
 
 ---
 
@@ -30,7 +30,7 @@ Finance SaaS Platform is a modern, cloud-based personal and business finance man
 ## 📂 Project Structure 📁
 
 ```
-finance-saas/
+financial-saas/
 ├── backend/                                  # API server built with Node.js, Express, and MongoDB
 │   ├── src/
 │   │   ├── config/                           # Environment, database, and third-party configurations
@@ -130,8 +130,8 @@ VITE_REDUX_PERSIST_SECRET_KEY="*"
 ## 📦 Installation 📥
 
 ```bash
-git clone https://github.com/BernieTv/Finance-SAAS-Platform.git
-cd Finance-SAAS-Platform
+git clone https://github.com/BernieTv/Financial-SAAS-Platform.git
+cd Financial-SAAS-Platform
 
 # Install backend dependencies
 cd backend && npm install
